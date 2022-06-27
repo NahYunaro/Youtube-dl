@@ -219,17 +219,4 @@ print q{
 
 sub _help{
 &_banner;
-print q{
-- How to download all on playlist
-enter link playlist and number video start and video end you want
-sample want first video number one final video four enter 1 and 4
-- How to download video only what we need
-create a new text file use menu + for easy to create link file
-and enter link video only what we need
-sample create file name link.txt enter three link on file
-https://www.youtube.com/watch?v=AT2M_8E2yK0
-https://www.youtube.com/watch?v=-L3qKTPLLPc
-https://www.youtube.com/watch?v=7qw3NynVgMY
-and enter the name list file link.txt
-};
 }
